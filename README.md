@@ -1,6 +1,6 @@
 # Telegram Crypto Analysis
 
-This contains:
+This directory contains:
 
 1. A jupyter notebook (ipynb) running the crypto analysis tutorial referenced. (https://www.kaggle.com/aagghh/trends-in-crypto-space-telegram-analysis)
 
