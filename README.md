@@ -10,3 +10,4 @@ This directory contains:
 * Huobi
 * Kucoin
 * OKEx
+* LINK to dataset (too large to upload): https://drive.google.com/file/d/16digGhBE8skYcky118lUb8oTRg6vrvJo/view?usp=sharing
